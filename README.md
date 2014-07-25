@@ -1,3 +1,12 @@
+### Updated MD
+
+This markdown file has been updated after the first commit of the
+completed assignment code.
+
+The assignment code is in file: cachematrix.R
+
+Also included the course's sample code (vector caching) as sample.R
+
 ### Introduction
 
 This second programming assignment will require you to write an R
